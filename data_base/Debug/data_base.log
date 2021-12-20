@@ -1,0 +1,15 @@
+﻿  data_base.cpp
+C:\Users\1\Downloads\data_base\data_base\data_base.cpp(34,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\data_base\data_base\data_base.cpp(37,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\data_base\data_base\data_base.cpp(40,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\data_base\data_base\data_base.cpp(204,47): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\data_base\data_base\data_base.cpp(211,47): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\data_base\data_base\data_base.cpp(266,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\data_base\data_base\data_base.cpp(301,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\data_base\data_base\data_base.cpp(318,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\data_base\data_base\data_base.cpp(349,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\data_base\data_base\data_base.cpp(359,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\data_base\data_base\data_base.cpp(361,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\data_base\data_base\data_base.cpp(376,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Downloads\data_base\data_base\data_base.cpp(396,31): warning C4018: <: несоответствие типов со знаком и без знака
+  data_base.vcxproj -> C:\Users\1\Downloads\data_base\Debug\data_base.exe
